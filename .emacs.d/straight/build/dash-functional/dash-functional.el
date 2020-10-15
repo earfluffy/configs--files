@@ -1,0 +1,1 @@
+/home/earfluffy/.emacs.d/straight/repos/dash.el/dash-functional.el

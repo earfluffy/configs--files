@@ -1,0 +1,1 @@
+/home/earfluffy/.emacs.d/straight/repos/ov/ov.el

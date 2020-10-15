@@ -1,0 +1,27 @@
+(deftheme my theme
+  "Created 2019-10-17.")
+
+(custom-theme-set-variables
+ 'my theme
+ '(ansi-color-faces-vector [default default default italic underline success warning error])
+ '(ansi-color-names-vector ["#242424" "#e5786d" "#95e454" "#cae682" "#8ac6f2" "#333366" "#ccaa8f" "#f6f3e8"])
+ '(frame-background-mode nil)
+ '(package-archives (quote (("gnu" . "http://elpa.gnu.org/packages/") ("melpa-stable" . "http://stable.melpa.org/packages/"))))
+ '(package-selected-packages (quote (smex haskell-mode)))
+ '(scroll-bar-mode nil)
+ '(tab-always-indent (quote complete))
+ '(tool-bar-style (quote text))
+ '(blink-cursor-mode nil)
+ '(fringe-mode nil)
+ '(tool-bar-mode nil)
+ '(column-number-mode t))
+
+(custom-theme-set-faces
+ 'my theme
+ '(cursor ((t (:background "red3"))))
+ '(error ((t (:foreground "red" :weight bold))))
+ '(highlight ((t (:background "gold2" :foreground "black"))))
+ '(isearch ((t (:background "deep sky blue" :foreground "dark slate gray"))))
+ '(link ((t (:foreground "turquoise" :underline t)))))
+
+(provide-theme 'my theme)

@@ -1,0 +1,1 @@
+/home/earfluffy/.emacs.d/straight/repos/helm-system-packages/helm-system-packages-portage.el

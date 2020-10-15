@@ -1,0 +1,14 @@
+/home/earfluffy/.config/i3/config
+/home/earfluffy/.config/i3/#config#
+/home/earfluffy/.config/redshift.conf
+/home/earfluffy/.config/#redshift.conf#
+/home/earfluffy/dunstrc1
+/home/earfluffy/#dunstrc1#
+/usr/lib/systemd/user/dunst.service
+/usr/lib/systemd/user/#dunst.service#
+/home/earfluffy/.config/dunst/dunstrc
+/home/earfluffy/.config/dunst/#dunstrc#
+/etc/skel/.config/dunst/dunstrc
+/etc/skel/.config/dunst/#dunstrc#
+/home/earfluffy/.emacs.d/init.el
+/home/earfluffy/.emacs.d/#init.el#
