@@ -1,1 +1,0 @@
-/home/earfluffy/.emacs.d/straight/repos/magit/Documentation/AUTHORS.md

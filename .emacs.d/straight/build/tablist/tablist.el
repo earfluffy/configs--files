@@ -1,1 +1,0 @@
-/home/earfluffy/.emacs.d/straight/repos/tablist/tablist.el
